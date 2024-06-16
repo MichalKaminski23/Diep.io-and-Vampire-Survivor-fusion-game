@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BackButton" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAKAAASAAAAgAgoIAIAAAAAAASgAAAAAggAECDAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClickableObject" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClickableObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collision" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAICAAAAAAAIAAABgAEASAAAgAAAAAIAAAAA=</HashCode>
+      <FileName>Collision.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABABABAAAAAAQAAAABAAiAAAAIABEAhAAgAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeavyTankEnemy" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeavyTankEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leaderboard" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAACAAAABAAAAA=</HashCode>
+      <FileName>Leaderboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightTankEnemy" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEAAAgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LightTankEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediumTankEnemy" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAAAEAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>MediumTankEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQAAAAAAAAAAAAAIAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewGame" Collapsed="true">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NextButton" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>NextButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Other" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAIAAAAAAAAAQAAAAgAAAAAIAIAAAAAAAAA=</HashCode>
+      <FileName>Other.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tank" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAQAAAAAIAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankEnemy" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAkAABAaAIAKAEABEAAAgAAAAIGAAUAAEE=</HashCode>
+      <FileName>TankEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankPlayer" Collapsed="true">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAAEBAAgAQJAAIABAAFAgAAAQWICBAAKAA=</HashCode>
+      <FileName>TankPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextBox" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAIQAAAAAAAAAgAAIAEAAAAAAAA=</HashCode>
+      <FileName>TextBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Author" Collapsed="true">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAgAAAAAAAAQAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Author.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Page" Collapsed="true">
+    <Position X="7.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlayerInfo" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAEAAAAAAAAAQAACAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TextInfo" Collapsed="true">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAEIAAIAQBhAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,2 @@
+#include "ClickableObject.h"
+//NULL
